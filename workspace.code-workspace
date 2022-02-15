@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"path": "..\\CursoIntroPython-main\\Módulo 0 - Preparación del entorno de trabajo"
+		},
+		{
+			"path": "..\\CursoIntroPython-main\\Módulo 1 - Primeros pasos"
+		},
+		{
+			"path": "..\\CursoIntroPython-main\\Módulo 2 - Crear y administrar proyectos"
+		},
+		{
+			"path": "..\\CursoIntroPython-main\\Módulo 3 - Usar lógica booleana"
+		},
+		{
+			"path": "..\\CursoIntroPython-main\\Módulo 4 - Cadenas"
+		},
+		{
+			"path": "..\\CursoIntroPython-main\\Módulo 5 - Usar operaciones matemáticas"
+		},
+		{
+			"path": "..\\CursoIntroPython-main\\Módulo 6 - Introducción a las listas"
+		},
+		{
+			"path": "..\\CursoIntroPython-main\\Módulo 7 - Estructuras de control"
+		},
+		{
+			"path": "..\\CursoIntroPython-main\\Módulo 8 - Administrar datos con diccionarios"
+		},
+		{
+			"path": "..\\CursoIntroPython-main\\Módulo 9 - Funciones"
+		},
+		{
+			"path": "..\\CursoIntroPython-main\\Módulo 10 - Manejo de errores"
+		}
+	]
+}
